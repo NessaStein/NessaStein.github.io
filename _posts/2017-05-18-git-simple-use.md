@@ -16,6 +16,11 @@ share: false
 >Note 
 {: .note}
 
+>Warning 
+{: .note .warning}
+
+***
+
 `c-x`{: .key} ctrl+x
 
 
