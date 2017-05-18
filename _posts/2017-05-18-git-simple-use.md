@@ -3,7 +3,7 @@ layout: post
 title: "git simple usage"
 date: <2017-05-18 15:07:13>
 tags: 
-description: git
+description: this is about git simple usage from teacher in swfu
 share: false
 ---
 
