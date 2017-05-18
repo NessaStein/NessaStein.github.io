@@ -16,6 +16,9 @@ share: false
 >Note 
 {: .note}
 
+`c-x`{: .key} ctrl+x
+
+
 ``` shell
 1. .git -> repo
 2. ./* -> working copy
