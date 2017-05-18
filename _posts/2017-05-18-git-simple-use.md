@@ -9,7 +9,12 @@ share: false
 
 
 # This is a picture about git usage
-![git usage]({{ site.baseurl | prepend:site.url}}/images/git-simple-use.png){: .center-image }*git simple picture*
+![git usage]({{ site.baseurl | prepend:site.url}}/images/git-simple-use.png){: .center-image }
+
+**tip**
+
+>Note 
+{: .note}
 
 ``` shell
 1. .git -> repo
