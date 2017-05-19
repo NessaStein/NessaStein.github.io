@@ -1,3 +1,3 @@
 git add .
-git commit -m "update"
+git commit -m "article update"
 git push -u origin master
