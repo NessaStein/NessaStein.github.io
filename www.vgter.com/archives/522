@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>SWITCH《勇者斗恶龙 建造者2/创世小玩家2》+1.7.3补丁 中文版XCI+NSP下载 | 上游世界</title>
+
+<!-- All In One SEO Pack 3.7.1[202,268] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.vgter.com/#organization","url":"https://www.vgter.com/","name":"上游世界","sameAs":[]},{"@type":"WebSite","@id":"https://www.vgter.com/#website","url":"https://www.vgter.com/","name":"上游世界","publisher":{"@id":"https://www.vgter.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.vgter.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.vgter.com/archives/522#webpage","url":"https://www.vgter.com/archives/522","inLanguage":"zh-CN","name":"SWITCH《勇者斗恶龙 建造者2/创世小玩家2》+1.7.3补丁 中文版XCI+NSP下载","isPartOf":{"@id":"https://www.vgter.com/#website"},"breadcrumb":{"@id":"https://www.vgter.com/archives/522#breadcrumblist"},"image":{"@type":"ImageObject","@id":"https://www.vgter.com/archives/522#primaryimage","url":"https://www.vgter.com/wp-content/uploads/2020/11/690707_front.jpg","width":350,"height":565},"primaryImageOfPage":{"@id":"https://www.vgter.com/archives/522#primaryimage"},"datePublished":"2020-11-16T14:01:45+08:00","dateModified":"2020-11-16T14:02:05+08:00"},{"@type":"Article","@id":"https://www.vgter.com/archives/522#article","isPartOf":{"@id":"https://www.vgter.com/archives/522#webpage"},"author":{"@id":"https://www.vgter.com/archives/author/admin1#author"},"headline":"SWITCH《勇者斗恶龙 建造者2/创世小玩家2》+1.7.3补丁 中文版XCI+NSP下载","datePublished":"2020-11-16T14:01:45+08:00","dateModified":"2020-11-16T14:02:05+08:00","commentCount":0,"mainEntityOfPage":{"@id":"https://www.vgter.com/archives/522#webpage"},"publisher":{"@id":"https://www.vgter.com/#organization"},"articleSection":"SWITCH游戏","image":{"@type":"ImageObject","@id":"https://www.vgter.com/archives/522#primaryimage","url":"https://www.vgter.com/wp-content/uploads/2020/11/690707_front.jpg","width":350,"height":565}},{"@type":"Person","@id":"https://www.vgter.com/archives/author/admin1#author","name":"VGTER","sameAs":[],"image":{"@type":"ImageObject","@id":"https://www.vgter.com/#personlogo","url":"https://secure.gravatar.com/avatar/0e7e8e112ea07395f6010d9330d63eb9?s=96&d=mm&r=g","width":96,"height":96,"caption":"VGTER"}},{"@type":"BreadcrumbList","@id":"https://www.vgter.com/archives/522#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.vgter.com/","url":"https://www.vgter.com/","name":"上游世界 | SWITCH游戏下载 | PS4游戏下载 | SWITCH中文游戏"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.vgter.com/archives/522","url":"https://www.vgter.com/archives/522","name":"SWITCH《勇者斗恶龙 建造者2/创世小玩家2》+1.7.3补丁 中文版XCI+NSP下载"}}]}]}</script>
+<link rel="canonical" href="../index.html@p=522" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='../index.html' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="上游世界 &raquo; Feed" href="../feed" />
+<link rel="alternate" type="application/rss+xml" title="上游世界 &raquo; 评论Feed" href="../comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.vgter.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.11"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='secure-copy-content-protection-public-css'  href='../wp-content/plugins/secure-copy-content-protection/public/css/secure-copy-content-protection-public.css@ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ashe-style-css'  href='../wp-content/themes/ashe/style.css@ver=1.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='../wp-content/themes/ashe/assets/css/font-awesome.css@ver=5.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='fontello-css'  href='../wp-content/themes/ashe/assets/css/fontello.css@ver=5.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='../wp-content/themes/ashe/assets/css/slick.css@ver=5.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='scrollbar-css'  href='../wp-content/themes/ashe/assets/css/perfect-scrollbar.css@ver=5.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='ashe-responsive-css'  href='../wp-content/themes/ashe/assets/css/responsive.css@ver=1.9.7' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js@ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/522" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='SWITCH《勇者斗恶龙 建造者/创世小玩家》汉化中文版XCI下载' href='../index.html@p=519' />
+<link rel='next' title='SWITCH《1-2 Switch》+1.0.1补丁 汉化中文版XCI+NSP下载' href='../index.html@p=525' />
+<meta name="generator" content="WordPress 5.5.11" />
+<link rel='shortlink' href='../index.html@p=522' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed@url=https%253A%252F%252Fwww.vgter.com%252Farchives%252F522" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed@url=https%253A%252F%252Fwww.vgter.com%252Farchives%252F522&amp;format=xml" />
+<style id="ashe_dynamic_css">#top-bar {background-color: #ffffff;}#top-bar a {color: #000000;}#top-bar a:hover,#top-bar li.current-menu-item > a,#top-bar li.current-menu-ancestor > a,#top-bar .sub-menu li.current-menu-item > a,#top-bar .sub-menu li.current-menu-ancestor> a {color: #c18a1b;}#top-menu .sub-menu,#top-menu .sub-menu a {background-color: #ffffff;border-color: rgba(0,0,0, 0.05);}@media screen and ( max-width: 979px ) {.top-bar-socials {float: none !important;}.top-bar-socials a {line-height: 40px !important;}}.header-logo a,.site-description {color: #c18a1b;}.entry-header {background-color: #ffffff;}#main-nav {background-color: #ffffff;box-shadow: 0px 1px 5px rgba(0,0,0, 0.1);}#featured-links h6 {background-color: rgba(255,255,255, 0.85);color: #000000;}#main-nav a,#main-nav i,#main-nav #s {color: #000000;}.main-nav-sidebar span,.sidebar-alt-close-btn span {background-color: #000000;}#main-nav a:hover,#main-nav i:hover,#main-nav li.current-menu-item > a,#main-nav li.current-menu-ancestor > a,#main-nav .sub-menu li.current-menu-item > a,#main-nav .sub-menu li.current-menu-ancestor> a {color: #c18a1b;}.main-nav-sidebar:hover span {background-color: #c18a1b;}#main-menu .sub-menu,#main-menu .sub-menu a {background-color: #ffffff;border-color: rgba(0,0,0, 0.05);}#main-nav #s {background-color: #ffffff;}#main-nav #s::-webkit-input-placeholder { /* Chrome/Opera/Safari */color: rgba(0,0,0, 0.7);}#main-nav #s::-moz-placeholder { /* Firefox 19+ */color: rgba(0,0,0, 0.7);}#main-nav #s:-ms-input-placeholder { /* IE 10+ */color: rgba(0,0,0, 0.7);}#main-nav #s:-moz-placeholder { /* Firefox 18- */color: rgba(0,0,0, 0.7);}/* Background */.sidebar-alt,#featured-links,.main-content,.featured-slider-area,.page-content select,.page-content input,.page-content textarea {background-color: #ffffff;}/* Text */.page-content,.page-content select,.page-content input,.page-content textarea,.page-content .post-author a,.page-content .ashe-widget a,.page-content .comment-author {color: #464646;}/* Title */.page-content h1,.page-content h2,.page-content h3,.page-content h4,.page-content h5,.page-content h6,.page-content .post-title a,.page-content .author-description h4 a,.page-content .related-posts h4 a,.page-content .blog-pagination .previous-page a,.page-content .blog-pagination .next-page a,blockquote,.page-content .post-share a {color: #030303;}.page-content .post-title a:hover {color: rgba(3,3,3, 0.75);}/* Meta */.page-content .post-date,.page-content .post-comments,.page-content .post-author,.page-content [data-layout*="list"] .post-author a,.page-content .related-post-date,.page-content .comment-meta a,.page-content .author-share a,.page-content .post-tags a,.page-content .tagcloud a,.widget_categories li,.widget_archive li,.ahse-subscribe-box p,.rpwwt-post-author,.rpwwt-post-categories,.rpwwt-post-date,.rpwwt-post-comments-number {color: #a1a1a1;}.page-content input::-webkit-input-placeholder { /* Chrome/Opera/Safari */color: #a1a1a1;}.page-content input::-moz-placeholder { /* Firefox 19+ */color: #a1a1a1;}.page-content input:-ms-input-placeholder { /* IE 10+ */color: #a1a1a1;}.page-content input:-moz-placeholder { /* Firefox 18- */color: #a1a1a1;}/* Accent */a,.post-categories,.page-content .ashe-widget.widget_text a {color: #c18a1b;}/* Disable TMP.page-content .elementor a,.page-content .elementor a:hover {color: inherit;}*/.ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {background: #c18a1b;}a:not(.header-logo-a):hover {color: rgba(193,138,27, 0.8);}blockquote {border-color: #c18a1b;}/* Selection */::-moz-selection {color: #ffffff;background: #c18a1b;}::selection {color: #ffffff;background: #c18a1b;}/* Border */.page-content .post-footer,[data-layout*="list"] .blog-grid > li,.page-content .author-description,.page-content .related-posts,.page-content .entry-comments,.page-content .ashe-widget li,.page-content #wp-calendar,.page-content #wp-calendar caption,.page-content #wp-calendar tbody td,.page-content .widget_nav_menu li a,.page-content .tagcloud a,.page-content select,.page-content input,.page-content textarea,.widget-title h2:before,.widget-title h2:after,.post-tags a,.gallery-caption,.wp-caption-text,table tr,table th,table td,pre,.category-description {border-color: #e8e8e8;}hr {background-color: #e8e8e8;}/* Buttons */.widget_search i,.widget_search #searchsubmit,.wp-block-search button,.single-navigation i,.page-content .submit,.page-content .blog-pagination.numeric a,.page-content .blog-pagination.load-more a,.page-content .ashe-subscribe-box input[type="submit"],.page-content .widget_wysija input[type="submit"],.page-content .post-password-form input[type="submit"],.page-content .wpcf7 [type="submit"] {color: #ffffff;background-color: #333333;}.single-navigation i:hover,.page-content .submit:hover,.ashe-boxed-style .page-content .submit:hover,.page-content .blog-pagination.numeric a:hover,.ashe-boxed-style .page-content .blog-pagination.numeric a:hover,.page-content .blog-pagination.numeric span,.page-content .blog-pagination.load-more a:hover,.page-content .ashe-subscribe-box input[type="submit"]:hover,.page-content .widget_wysija input[type="submit"]:hover,.page-content .post-password-form input[type="submit"]:hover,.page-content .wpcf7 [type="submit"]:hover {color: #ffffff;background-color: #c18a1b;}/* Image Overlay */.image-overlay,#infscr-loading,.page-content h4.image-overlay {color: #ffffff;background-color: rgba(73,73,73, 0.3);}.image-overlay a,.post-slider .prev-arrow,.post-slider .next-arrow,.page-content .image-overlay a,#featured-slider .slick-arrow,#featured-slider .slider-dots {color: #ffffff;}.slide-caption {background: rgba(255,255,255, 0.95);}#featured-slider .slick-active {background: #ffffff;}#page-footer,#page-footer select,#page-footer input,#page-footer textarea {background-color: #f6f6f6;color: #333333;}#page-footer,#page-footer a,#page-footer select,#page-footer input,#page-footer textarea {color: #333333;}#page-footer #s::-webkit-input-placeholder { /* Chrome/Opera/Safari */color: #333333;}#page-footer #s::-moz-placeholder { /* Firefox 19+ */color: #333333;}#page-footer #s:-ms-input-placeholder { /* IE 10+ */color: #333333;}#page-footer #s:-moz-placeholder { /* Firefox 18- */color: #333333;}/* Title */#page-footer h1,#page-footer h2,#page-footer h3,#page-footer h4,#page-footer h5,#page-footer h6 {color: #111111;}#page-footer a:hover {color: #c18a1b;}/* Border */#page-footer a,#page-footer .ashe-widget li,#page-footer #wp-calendar,#page-footer #wp-calendar caption,#page-footer #wp-calendar tbody td,#page-footer .widget_nav_menu li a,#page-footer select,#page-footer input,#page-footer textarea,#page-footer .widget-title h2:before,#page-footer .widget-title h2:after,.footer-widgets {border-color: #e0dbdb;}#page-footer hr {background-color: #e0dbdb;}.ashe-preloader-wrap {background-color: #ffffff;}@media screen and ( max-width: 768px ) {.featured-slider-area {display: none;}}@media screen and ( max-width: 768px ) {#featured-links {display: none;}}@media screen and ( max-width: 640px ) {.related-posts {display: none;}}.header-logo a {font-family: 'Open Sans';}#top-menu li a {font-family: 'Open Sans';}#main-menu li a {font-family: 'Open Sans';}#mobile-menu li,.mobile-menu-btn a {font-family: 'Open Sans';}#top-menu li a,#main-menu li a,#mobile-menu li,.mobile-menu-btn a {text-transform: uppercase;}.boxed-wrapper {max-width: 1160px;}.sidebar-alt {max-width: 280px;left: -280px; padding: 85px 35px 0px;}.sidebar-left,.sidebar-right {width: 247px;}.main-container {width: calc(100% - 247px);width: -webkit-calc(100% - 247px);}#top-bar > div,#main-nav > div,#featured-links,.main-content,.page-footer-inner,.featured-slider-area.boxed-wrapper {padding-left: 40px;padding-right: 40px;}[data-layout*="list"] .blog-grid .has-post-thumbnail .post-media {float: left;max-width: 300px;width: 100%;}[data-layout*="list"] .blog-grid .has-post-thumbnail .post-content-wrap {width: calc(100% - 300px);width: -webkit-calc(100% - 300px);float: left;padding-left: 37px;}[data-layout*="list"] .blog-grid > li {padding-bottom: 39px;}[data-layout*="list"] .blog-grid > li {margin-bottom: 39px;}[data-layout*="list"] .blog-grid .post-header, [data-layout*="list"] .blog-grid .read-more {text-align: left;}#top-menu {float: left;}.top-bar-socials {float: right;}.entry-header {height: 500px;background-image:url(../wp-content/uploads/2020/11/cropped-5b7cf62cd08c5.jpg);background-size: cover;}.entry-header {background-position: center center;}.logo-img {max-width: 500px;}.mini-logo a {max-width: 70px;}#main-nav {text-align: center;}.main-nav-sidebar {position: absolute;top: 0px;left: 40px;z-index: 1;}.main-nav-icons {position: absolute;top: 0px;right: 40px;z-index: 2;}.mini-logo {position: absolute;left: auto;top: 0;}.main-nav-sidebar ~ .mini-logo {margin-left: 30px;}#featured-links .featured-link {margin-right: 20px;}#featured-links .featured-link:last-of-type {margin-right: 0;}#featured-links .featured-link {width: calc( (100% - -20px) / 0 - 1px);width: -webkit-calc( (100% - -20px) / 0- 1px);}.featured-link:nth-child(1) .cv-inner {display: none;}.featured-link:nth-child(2) .cv-inner {display: none;}.featured-link:nth-child(3) .cv-inner {display: none;}.blog-grid > li {width: 100%;margin-bottom: 30px;}.sidebar-right {padding-left: 37px;}.footer-widgets > .ashe-widget {width: 30%;margin-right: 5%;}.footer-widgets > .ashe-widget:nth-child(3n+3) {margin-right: 0;}.footer-widgets > .ashe-widget:nth-child(3n+4) {clear: both;}.copyright-info {float: right;}.footer-socials {float: left;}.woocommerce div.product .stock,.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce ul.products li.product .price,.woocommerce-Reviews .woocommerce-review__author,.woocommerce form .form-row .required,.woocommerce form .form-row.woocommerce-invalid label,.woocommerce .page-content div.product .woocommerce-tabs ul.tabs li a {color: #464646;}.woocommerce a.remove:hover {color: #464646 !important;}.woocommerce a.remove,.woocommerce .product_meta,.page-content .woocommerce-breadcrumb,.page-content .woocommerce-review-link,.page-content .woocommerce-breadcrumb a,.page-content .woocommerce-MyAccount-navigation-link a,.woocommerce .woocommerce-info:before,.woocommerce .page-content .woocommerce-result-count,.woocommerce-page .page-content .woocommerce-result-count,.woocommerce-Reviews .woocommerce-review__published-date,.woocommerce .product_list_widget .quantity,.woocommerce .widget_products .amount,.woocommerce .widget_price_filter .price_slider_amount,.woocommerce .widget_recently_viewed_products .amount,.woocommerce .widget_top_rated_products .amount,.woocommerce .widget_recent_reviews .reviewer {color: #a1a1a1;}.woocommerce a.remove {color: #a1a1a1 !important;}p.demo_store,.woocommerce-store-notice,.woocommerce span.onsale { background-color: #c18a1b;}.woocommerce .star-rating::before,.woocommerce .star-rating span::before,.woocommerce .page-content ul.products li.product .button,.page-content .woocommerce ul.products li.product .button,.page-content .woocommerce-MyAccount-navigation-link.is-active a,.page-content .woocommerce-MyAccount-navigation-link a:hover { color: #c18a1b;}.woocommerce form.login,.woocommerce form.register,.woocommerce-account fieldset,.woocommerce form.checkout_coupon,.woocommerce .woocommerce-info,.woocommerce .woocommerce-error,.woocommerce .woocommerce-message,.woocommerce .widget_shopping_cart .total,.woocommerce.widget_shopping_cart .total,.woocommerce-Reviews .comment_container,.woocommerce-cart #payment ul.payment_methods,#add_payment_method #payment ul.payment_methods,.woocommerce-checkout #payment ul.payment_methods,.woocommerce div.product .woocommerce-tabs ul.tabs::before,.woocommerce div.product .woocommerce-tabs ul.tabs::after,.woocommerce div.product .woocommerce-tabs ul.tabs li,.woocommerce .woocommerce-MyAccount-navigation-link,.select2-container--default .select2-selection--single {border-color: #e8e8e8;}.woocommerce-cart #payment,#add_payment_method #payment,.woocommerce-checkout #payment,.woocommerce .woocommerce-info,.woocommerce .woocommerce-error,.woocommerce .woocommerce-message,.woocommerce div.product .woocommerce-tabs ul.tabs li {background-color: rgba(232,232,232, 0.3);}.woocommerce-cart #payment div.payment_box::before,#add_payment_method #payment div.payment_box::before,.woocommerce-checkout #payment div.payment_box::before {border-color: rgba(232,232,232, 0.5);}.woocommerce-cart #payment div.payment_box,#add_payment_method #payment div.payment_box,.woocommerce-checkout #payment div.payment_box {background-color: rgba(232,232,232, 0.5);}.page-content .woocommerce input.button,.page-content .woocommerce a.button,.page-content .woocommerce a.button.alt,.page-content .woocommerce button.button.alt,.page-content .woocommerce input.button.alt,.page-content .woocommerce #respond input#submit.alt,.woocommerce .page-content .widget_product_search input[type="submit"],.woocommerce .page-content .woocommerce-message .button,.woocommerce .page-content a.button.alt,.woocommerce .page-content button.button.alt,.woocommerce .page-content #respond input#submit,.woocommerce .page-content .widget_price_filter .button,.woocommerce .page-content .woocommerce-message .button,.woocommerce-page .page-content .woocommerce-message .button,.woocommerce .page-content nav.woocommerce-pagination ul li a,.woocommerce .page-content nav.woocommerce-pagination ul li span {color: #ffffff;background-color: #333333;}.page-content .woocommerce input.button:hover,.page-content .woocommerce a.button:hover,.page-content .woocommerce a.button.alt:hover,.ashe-boxed-style .page-content .woocommerce a.button.alt:hover,.page-content .woocommerce button.button.alt:hover,.page-content .woocommerce input.button.alt:hover,.page-content .woocommerce #respond input#submit.alt:hover,.woocommerce .page-content .woocommerce-message .button:hover,.woocommerce .page-content a.button.alt:hover,.woocommerce .page-content button.button.alt:hover,.ashe-boxed-style.woocommerce .page-content button.button.alt:hover,.ashe-boxed-style.woocommerce .page-content #respond input#submit:hover,.woocommerce .page-content #respond input#submit:hover,.woocommerce .page-content .widget_price_filter .button:hover,.woocommerce .page-content .woocommerce-message .button:hover,.woocommerce-page .page-content .woocommerce-message .button:hover,.woocommerce .page-content nav.woocommerce-pagination ul li a:hover,.woocommerce .page-content nav.woocommerce-pagination ul li span.current {color: #ffffff;background-color: #c18a1b;}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev,.woocommerce .page-content nav.woocommerce-pagination ul li a.next {color: #333333;}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev:hover,.woocommerce .page-content nav.woocommerce-pagination ul li a.next:hover {color: #c18a1b;}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev:after,.woocommerce .page-content nav.woocommerce-pagination ul li a.next:after {color: #ffffff;}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev:hover:after,.woocommerce .page-content nav.woocommerce-pagination ul li a.next:hover:after {color: #ffffff;}.cssload-cube{background-color:#333333;width:9px;height:9px;position:absolute;margin:auto;animation:cssload-cubemove 2s infinite ease-in-out;-o-animation:cssload-cubemove 2s infinite ease-in-out;-ms-animation:cssload-cubemove 2s infinite ease-in-out;-webkit-animation:cssload-cubemove 2s infinite ease-in-out;-moz-animation:cssload-cubemove 2s infinite ease-in-out}.cssload-cube1{left:13px;top:0;animation-delay:.1s;-o-animation-delay:.1s;-ms-animation-delay:.1s;-webkit-animation-delay:.1s;-moz-animation-delay:.1s}.cssload-cube2{left:25px;top:0;animation-delay:.2s;-o-animation-delay:.2s;-ms-animation-delay:.2s;-webkit-animation-delay:.2s;-moz-animation-delay:.2s}.cssload-cube3{left:38px;top:0;animation-delay:.3s;-o-animation-delay:.3s;-ms-animation-delay:.3s;-webkit-animation-delay:.3s;-moz-animation-delay:.3s}.cssload-cube4{left:0;top:13px;animation-delay:.1s;-o-animation-delay:.1s;-ms-animation-delay:.1s;-webkit-animation-delay:.1s;-moz-animation-delay:.1s}.cssload-cube5{left:13px;top:13px;animation-delay:.2s;-o-animation-delay:.2s;-ms-animation-delay:.2s;-webkit-animation-delay:.2s;-moz-animation-delay:.2s}.cssload-cube6{left:25px;top:13px;animation-delay:.3s;-o-animation-delay:.3s;-ms-animation-delay:.3s;-webkit-animation-delay:.3s;-moz-animation-delay:.3s}.cssload-cube7{left:38px;top:13px;animation-delay:.4s;-o-animation-delay:.4s;-ms-animation-delay:.4s;-webkit-animation-delay:.4s;-moz-animation-delay:.4s}.cssload-cube8{left:0;top:25px;animation-delay:.2s;-o-animation-delay:.2s;-ms-animation-delay:.2s;-webkit-animation-delay:.2s;-moz-animation-delay:.2s}.cssload-cube9{left:13px;top:25px;animation-delay:.3s;-o-animation-delay:.3s;-ms-animation-delay:.3s;-webkit-animation-delay:.3s;-moz-animation-delay:.3s}.cssload-cube10{left:25px;top:25px;animation-delay:.4s;-o-animation-delay:.4s;-ms-animation-delay:.4s;-webkit-animation-delay:.4s;-moz-animation-delay:.4s}.cssload-cube11{left:38px;top:25px;animation-delay:.5s;-o-animation-delay:.5s;-ms-animation-delay:.5s;-webkit-animation-delay:.5s;-moz-animation-delay:.5s}.cssload-cube12{left:0;top:38px;animation-delay:.3s;-o-animation-delay:.3s;-ms-animation-delay:.3s;-webkit-animation-delay:.3s;-moz-animation-delay:.3s}.cssload-cube13{left:13px;top:38px;animation-delay:.4s;-o-animation-delay:.4s;-ms-animation-delay:.4s;-webkit-animation-delay:.4s;-moz-animation-delay:.4s}.cssload-cube14{left:25px;top:38px;animation-delay:.5s;-o-animation-delay:.5s;-ms-animation-delay:.5s;-webkit-animation-delay:.5s;-moz-animation-delay:.5s}.cssload-cube15{left:38px;top:38px;animation-delay:.6s;-o-animation-delay:.6s;-ms-animation-delay:.6s;-webkit-animation-delay:.6s;-moz-animation-delay:.6s}.cssload-spinner{margin:auto;width:49px;height:49px;position:relative}@keyframes cssload-cubemove{35%{transform:scale(0.005)}50%{transform:scale(1.7)}65%{transform:scale(0.005)}}@-o-keyframes cssload-cubemove{35%{-o-transform:scale(0.005)}50%{-o-transform:scale(1.7)}65%{-o-transform:scale(0.005)}}@-ms-keyframes cssload-cubemove{35%{-ms-transform:scale(0.005)}50%{-ms-transform:scale(1.7)}65%{-ms-transform:scale(0.005)}}@-webkit-keyframes cssload-cubemove{35%{-webkit-transform:scale(0.005)}50%{-webkit-transform:scale(1.7)}65%{-webkit-transform:scale(0.005)}}@-moz-keyframes cssload-cubemove{35%{-moz-transform:scale(0.005)}50%{-moz-transform:scale(1.7)}65%{-moz-transform:scale(0.005)}}</style><style id="ashe_theme_styles">body,.mc4wp-form-fields,.widget_wysija_cont{background-color:#222 !important}#top-bar{background-color:#111}#top-bar a{color:#fff}#top-menu .sub-menu,#top-menu .sub-menu a{background-color:#111;border-color:rgba(255,255,255,0.05)}#main-nav{background-color:#111;box-shadow:0 1px 5px rgba(255,255,255,0.1)}#featured-links h6{background-color:rgba(34,34,34,0.85);color:#c4c4c4}#main-nav a,#main-nav i,#main-nav #s{color:#fff}.main-nav-sidebar span,.sidebar-alt-close-btn span{background-color:#fff}#main-menu .sub-menu,#main-menu .sub-menu a{background-color:#111;border-color:rgba(255,255,255,0.05)}#main-nav #s{background-color:#111}#main-nav #s::-webkit-input-placeholder{color:rgba(255,255,255,0.7)}#main-nav #s::-moz-placeholder{color:rgba(255,255,255,0.7)}#main-nav #s:-ms-input-placeholder{color:rgba(255,255,255,0.7)}#main-nav #s:-moz-placeholder{color:rgba(255,255,255,0.7)}.sidebar-alt,#featured-links,.main-content,.featured-slider-area,.page-content select,.page-content input,.page-content textarea{background-color:#222}.page-content,.page-content select,.page-content input,.page-content textarea,.page-content .post-author a,.page-content .ashe-widget a,.page-content .comment-author{color:#c4c4c4}.page-content h1,.page-content h2,.page-content h3,.page-content h4,.page-content h5,.page-content h6,.page-content .post-title a,.page-content .author-description h4 a,.page-content .related-posts h4 a,.page-content .blog-pagination .previous-page a,.page-content .blog-pagination .next-page a,blockquote,.page-content .post-share a{color:#fff}.page-content .post-title a:hover{color:rgba(255,255,255,0.75)}.page-content .post-date,.page-content .post-comments,.page-content .post-author,.page-content [data-layout*="list"] .post-author a,.page-content .related-post-date,.page-content .comment-meta a,.page-content .author-share a,.page-content .post-tags a,.page-content .tagcloud a,.widget_categories li,.widget_archive li,.ahse-subscribe-box p,.rpwwt-post-author,.rpwwt-post-categories,.rpwwt-post-date,.rpwwt-post-comments-number{color:#9e9e9e}.page-content input::-webkit-input-placeholder{color:#9e9e9e}.page-content input::-moz-placeholder{color:#9e9e9e}.page-content input:-ms-input-placeholder{color:#9e9e9e}.page-content input:-moz-placeholder{color:#9e9e9e}.page-content .post-footer,[data-layout*="list"] .blog-grid > li,.page-content .author-description,.page-content .related-posts,.page-content .entry-comments,.page-content .ashe-widget li,.page-content #wp-calendar,.page-content #wp-calendar caption,.page-content #wp-calendar tbody td,.page-content .widget_nav_menu li a,.page-content .tagcloud a,.page-content select,.page-content input,.page-content textarea,.widget-title h2:before,.widget-title h2:after,.post-tags a,.gallery-caption,.wp-caption-text,table tr,table th,table td,pre,.category-description{border-color:#383838}hr{background-color:#383838}.widget_search i,.widget_search #searchsubmit,.single-navigation i,.page-content .submit,.page-content .blog-pagination.numeric a,.page-content .blog-pagination.load-more a,.page-content .ashe-subscribe-box input[type="submit"],.page-content .widget_wysija input[type="submit"],.page-content .post-password-form input[type="submit"],.page-content .wpcf7 [type="submit"]{color:#c4c4c4;background-color:#333}.image-overlay,#infscr-loading,.page-content h4.image-overlay{background-color:rgba(0,0,0,0.3)}#page-footer,#page-footer select,#page-footer input,#page-footer textarea,.select2-container--default .select2-selection--single{background-color:#222}#page-footer,#page-footer a,#page-footer select,#page-footer input,#page-footer textarea{color:#c4c4c4}#page-footer #s::-webkit-input-placeholder{color:#c4c4c4}#page-footer #s::-moz-placeholder{color:#c4c4c4}#page-footer #s:-ms-input-placeholder{color:#c4c4c4}#page-footer #s:-moz-placeholder{color:#c4c4c4}#page-footer h1,#page-footer h2,#page-footer h3,#page-footer h4,#page-footer h5,#page-footer h6{color:#fff}#page-footer a,#page-footer .ashe-widget li,#page-footer #wp-calendar,#page-footer #wp-calendar caption,#page-footer #wp-calendar tbody td,#page-footer .widget_nav_menu li a,#page-footer select,#page-footer input,#page-footer textarea,#page-footer .widget-title h2:before,#page-footer .widget-title h2:after,.footer-widgets{border-color:#383838}#page-footer hr{background-color:#383838}.ashe-preloader-wrap{background-color:#333}.woocommerce div.product .stock,.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce ul.products li.product .price,.woocommerce-Reviews .woocommerce-review__author,.woocommerce form .form-row .required,.woocommerce form .form-row.woocommerce-invalid label,.woocommerce .page-content div.product .woocommerce-tabs ul.tabs li a{color:#c4c4c4}.woocommerce a.remove:hover{color:#c4c4c4!important}.woocommerce a.remove,.woocommerce .product_meta,.page-content .woocommerce-breadcrumb,.page-content .woocommerce-review-link,.page-content .woocommerce-breadcrumb a,.page-content .woocommerce-MyAccount-navigation-link a,.woocommerce .woocommerce-info:before,.woocommerce .page-content .woocommerce-result-count,.woocommerce-page .page-content .woocommerce-result-count,.woocommerce-Reviews .woocommerce-review__published-date,.woocommerce .product_list_widget .quantity,.woocommerce .widget_products .amount,.woocommerce .widget_price_filter .price_slider_amount,.woocommerce .widget_recently_viewed_products .amount,.woocommerce .widget_top_rated_products .amount,.woocommerce .widget_recent_reviews .reviewer{color:#9e9e9e}.woocommerce a.remove{color:#9e9e9e!important}.woocommerce form.login,.woocommerce form.register,.woocommerce-account fieldset,.woocommerce form.checkout_coupon,.woocommerce .woocommerce-info,.woocommerce .woocommerce-error,.woocommerce .woocommerce-message,.woocommerce .widget_shopping_cart .total,.woocommerce.widget_shopping_cart .total,.woocommerce-Reviews .comment_container,.woocommerce-cart #payment ul.payment_methods,#add_payment_method #payment ul.payment_methods,.woocommerce-checkout #payment ul.payment_methods,.woocommerce div.product .woocommerce-tabs ul.tabs::before,.woocommerce div.product .woocommerce-tabs ul.tabs::after,.woocommerce div.product .woocommerce-tabs ul.tabs li,.woocommerce .woocommerce-MyAccount-navigation-link,.select2-container--default .select2-selection--single{border-color:#383838}.woocommerce-cart #payment,#add_payment_method #payment,.woocommerce-checkout #payment,.woocommerce .woocommerce-info,.woocommerce .woocommerce-error,.woocommerce .woocommerce-message,.woocommerce div.product .woocommerce-tabs ul.tabs li{background-color:rgba(56,56,56,0.3) !important}.woocommerce-cart #payment div.payment_box::before,#add_payment_method #payment div.payment_box::before,.woocommerce-checkout #payment div.payment_box::before{border-color:rgba(56,56,56,0.5)}.woocommerce-cart #payment div.payment_box,#add_payment_method #payment div.payment_box,.woocommerce-checkout #payment div.payment_box{background-color:rgba(56,56,56,0.5)}.page-content .woocommerce input.button,.page-content .woocommerce a.button,.page-content .woocommerce a.button.alt,.page-content .woocommerce button.button.alt,.page-content .woocommerce input.button.alt,.page-content .woocommerce #respond input#submit.alt,.woocommerce .page-content .widget_product_search input[type="submit"],.woocommerce .page-content .woocommerce-message .button,.woocommerce .page-content a.button.alt,.woocommerce .page-content button.button.alt,.woocommerce .page-content #respond input#submit,.woocommerce .page-content .widget_price_filter .button,.woocommerce .page-content .woocommerce-message .button,.woocommerce-page .page-content .woocommerce-message .button,.woocommerce .page-content nav.woocommerce-pagination ul li a,.woocommerce .page-content nav.woocommerce-pagination ul li span{color:#c4c4c4;background-color:#333}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev,.woocommerce .page-content nav.woocommerce-pagination ul li a.next{color:#333}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev:after,.woocommerce .page-content nav.woocommerce-pagination ul li a.next:after{color:#fff}.woocommerce .page-content nav.woocommerce-pagination ul li a.prev:hover:after,.woocommerce .page-content nav.woocommerce-pagination ul li a.next:hover:after{color:#fff}.ashe-dropcaps .post-content > p:first-of-type:first-letter{color:#fff !important}.page-content a:hover{color: rgba(193,138,27, 0.8)}.sticky {background: #2f2f2f;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="../wp-content/uploads/2020/11/cropped-9999-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="../wp-content/uploads/2020/11/cropped-9999-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="../wp-content/uploads/2020/11/cropped-9999-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.vgter.com/wp-content/uploads/2020/11/cropped-9999-270x270.jpg" />
+</head>
+
+<body class="post-template-default single single-post postid-522 single-format-standard custom-background wp-embed-responsive">
+	
+	<!-- Preloader -->
+	
+	<!-- Page Wrapper -->
+	<div id="page-wrap">
+
+		<!-- Boxed Wrapper -->
+		<div id="page-header" >
+
+		
+	<div class="entry-header">
+		<div class="cv-outer">
+		<div class="cv-inner">
+			<div class="header-logo">
+				
+									
+										<a href="../index.html" class="header-logo-a">上游世界</a>
+					
+								
+				<p class="site-description">我们只提供精品</p>
+				
+			</div>
+		</div>
+		</div>
+	</div>
+
+
+<div id="main-nav" class="clear-fix">
+
+	<div class="boxed-wrapper">	
+		
+		<!-- Alt Sidebar Icon -->
+				<div class="main-nav-sidebar">
+			<div>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		
+		<!-- Mini Logo -->
+		
+		<!-- Icons -->
+		<div class="main-nav-icons">
+			
+						<div class="main-nav-search">
+				<i class="fa fa-search"></i>
+				<i class="fa fa-times"></i>
+				<form role="search" method="get" id="searchform" class="clear-fix" action="../index.html"><input type="search" name="s" id="s" placeholder="搜索..." data-placeholder="输入后按回车..." value="" /><i class="fa fa-search"></i><input type="submit" id="searchsubmit" value="st" /></form>			</div>
+					</div>
+
+		<nav class="main-menu-container"><ul id="main-menu" class=""><li id="menu-item-1786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1786"><a href="../index.html">首页</a></li>
+<li id="menu-item-1782" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1782"><a href="category/switch/index.html">SWITCH游戏</a></li>
+<li id="menu-item-1784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1784"><a href="category/ps4/index.html">PS4游戏</a></li>
+<li id="menu-item-1783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1783"><a href="category/pc/index.html">PC游戏</a></li>
+<li id="menu-item-1785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1785"><a href="category/etc">其他资源</a></li>
+</ul></nav>
+		<!-- Mobile Menu Button -->
+		<span class="mobile-menu-btn">
+			<i class="fa fa-chevron-down"></i>		</span>
+
+		<nav class="mobile-menu-container"><ul id="mobile-menu" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1786"><a href="../index.html">首页</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1782"><a href="category/switch/index.html">SWITCH游戏</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1784"><a href="category/ps4/index.html">PS4游戏</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1783"><a href="category/pc/index.html">PC游戏</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1785"><a href="category/etc">其他资源</a></li>
+ </ul></nav>
+	</div>
+
+</div><!-- #main-nav -->
+
+		</div><!-- .boxed-wrapper -->
+
+		<!-- Page Content -->
+		<div class="page-content">
+
+			
+<div class="sidebar-alt-wrap">
+	<div class="sidebar-alt-close image-overlay"></div>
+	<aside class="sidebar-alt">
+
+		<div class="sidebar-alt-close-btn">
+			<span></span>
+			<span></span>
+		</div>
+
+		<div id="search-4" class="ashe-widget widget_search"><form role="search" method="get" id="searchform" class="clear-fix" action="../index.html"><input type="search" name="s" id="s" placeholder="搜索..." data-placeholder="输入后按回车..." value="" /><i class="fa fa-search"></i><input type="submit" id="searchsubmit" value="st" /></form></div><div id="categories-4" class="ashe-widget widget_categories"><div class="widget-title"><h2>分类目录</h2></div>
+			<ul>
+					<li class="cat-item cat-item-6"><a href="category/pc/index.html">PC游戏</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="category/ps4/index.html">PS4游戏</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="category/switch/index.html">SWITCH游戏</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="category/etc">其他资源</a>
+</li>
+			</ul>
+
+			</div><div id="meta-4" class="ashe-widget widget_meta"><div class="widget-title"><h2>功能</h2></div>
+		<ul>
+			<li><a href="../wp-login.php@action=register">注册</a></li>			<li><a href="../wp-login.php">登录</a></li>
+			<li><a href="../feed">条目feed</a></li>
+			<li><a href="../comments/feed">评论feed</a></li>
+
+			<li><a href="https://cn.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div>		
+	</aside>
+</div>
+<!-- Page Content -->
+<div class="main-content clear-fix boxed-wrapper" data-sidebar-sticky="">
+
+
+	
+<div class="sidebar-alt-wrap">
+	<div class="sidebar-alt-close image-overlay"></div>
+	<aside class="sidebar-alt">
+
+		<div class="sidebar-alt-close-btn">
+			<span></span>
+			<span></span>
+		</div>
+
+		<div id="search-4" class="ashe-widget widget_search"><form role="search" method="get" id="searchform" class="clear-fix" action="../index.html"><input type="search" name="s" id="s" placeholder="搜索..." data-placeholder="输入后按回车..." value="" /><i class="fa fa-search"></i><input type="submit" id="searchsubmit" value="st" /></form></div><div id="categories-4" class="ashe-widget widget_categories"><div class="widget-title"><h2>分类目录</h2></div>
+			<ul>
+					<li class="cat-item cat-item-6"><a href="category/pc/index.html">PC游戏</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="category/ps4/index.html">PS4游戏</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="category/switch/index.html">SWITCH游戏</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="category/etc">其他资源</a>
+</li>
+			</ul>
+
+			</div><div id="meta-4" class="ashe-widget widget_meta"><div class="widget-title"><h2>功能</h2></div>
+		<ul>
+			<li><a href="../wp-login.php@action=register">注册</a></li>			<li><a href="../wp-login.php">登录</a></li>
+			<li><a href="../feed">条目feed</a></li>
+			<li><a href="../comments/feed">评论feed</a></li>
+
+			<li><a href="https://cn.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div>		
+	</aside>
+</div>
+	<!-- Main Container -->
+	<div class="main-container">
+
+		
+<article id="post-522" class="blog-post post-522 post type-post status-publish format-standard has-post-thumbnail hentry category-switch">
+
+	
+
+
+
+	
+	<header class="post-header">
+
+		
+				<h1 class="post-title">SWITCH《勇者斗恶龙 建造者2/创世小玩家2》+1.7.3补丁 中文版XCI+NSP下载</h1>
+		
+		
+	</header>
+
+	<div class="post-content">
+
+		<p><img loading="lazy" class="alignnone size-full wp-image-523 aligncenter" src="../wp-content/uploads/2020/11/690707_front.jpg" alt="" width="350" height="565" srcset="https://www.vgter.com/wp-content/uploads/2020/11/690707_front.jpg 350w, https://www.vgter.com/wp-content/uploads/2020/11/690707_front-186x300.jpg 186w, https://www.vgter.com/wp-content/uploads/2020/11/690707_front-204x330.jpg 204w" sizes="(max-width: 350px) 100vw, 350px" /></p>
+<p style="text-align: center;"><span id="more-522"></span><br />
+<iframe src="https://player.bilibili.com/player.html?aid=13072859&amp;bvid=BV1ex411p7J5&amp;cid=21458890&amp;page=1" width="600" height="400" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span> </iframe></p>
+<p>为了阻止邪恶的「哈贡教团」，和谜样的少年「席德」同心协力将荒废破败的世界打造成你喜欢的模样吧!本作中玩家将可在辽阔的岛屿上冒险、收集素材并创造物品、设计街道等，以及一边提升等级，一边和居民齐心抵御来自怪兽和敌人头目的攻击。随着故事进展，也会发现物品或建筑的制作配方，以第一人称视角跑步、滑翔、游泳、瞬间移动等操作，找出所有的配方吧!此外，玩家也可利用网路连线或无线通讯连线享受最多4人一同游玩的游戏乐趣。</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong><span style="color: #ff6600;">下载地址：</span></strong></p>
+	
+	<div style="text-align:center;border:1px dashed #FF9A9A;padding:8px;margin:10px auto;">
+		本文隐藏内容
+		<a href="../login">登陆</a> 或 <a href="../wp-login.php@action=register">注册</a> 后才可以浏览
+		</div>
+<p>&nbsp;</p>
+	</div>
+
+	<footer class="post-footer">
+
+		
+		
+				
+	</footer>
+
+
+</article>
+<!-- Previous Post -->
+<a href="../index.html@p=525" title="SWITCH《1-2 Switch》+1.0.1补丁 汉化中文版XCI+NSP下载" class="single-navigation previous-post">
+<img width="75" height="75" src="../wp-content/uploads/2020/11/154953ls4lldbggsjgddgj-75x75.jpg" class="attachment-ashe-single-navigation size-ashe-single-navigation wp-post-image" alt="" loading="lazy" srcset="https://www.vgter.com/wp-content/uploads/2020/11/154953ls4lldbggsjgddgj-75x75.jpg 75w, https://www.vgter.com/wp-content/uploads/2020/11/154953ls4lldbggsjgddgj-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /><i class="fa fa-angle-right"></i>
+</a>
+
+<!-- Next Post -->
+<a href="../index.html@p=519" title="SWITCH《勇者斗恶龙 建造者/创世小玩家》汉化中文版XCI下载" class="single-navigation next-post">
+	<img width="75" height="75" src="../wp-content/uploads/2020/11/140558btnskqktungsjha7-75x75.jpg" class="attachment-ashe-single-navigation size-ashe-single-navigation wp-post-image" alt="" loading="lazy" srcset="https://www.vgter.com/wp-content/uploads/2020/11/140558btnskqktungsjha7-75x75.jpg 75w, https://www.vgter.com/wp-content/uploads/2020/11/140558btnskqktungsjha7-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" />	<i class="fa fa-angle-left"></i>
+</a>
+
+			<div class="related-posts">
+				<h3>您可能也喜欢</h3>
+
+				
+					<section>
+						<a href="../index.html@p=1485"><img width="204" height="330" src="../wp-content/uploads/2020/12/215450dbvn96xvcovqnfbq-204x330.jpg" class="attachment-ashe-grid-thumbnail size-ashe-grid-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://www.vgter.com/wp-content/uploads/2020/12/215450dbvn96xvcovqnfbq-204x330.jpg 204w, https://www.vgter.com/wp-content/uploads/2020/12/215450dbvn96xvcovqnfbq-186x300.jpg 186w, https://www.vgter.com/wp-content/uploads/2020/12/215450dbvn96xvcovqnfbq.jpg 350w" sizes="(max-width: 204px) 100vw, 204px" /></a>
+						<h4><a href="../index.html@p=1485">SWITCH《噗呦噗呦：俄罗斯方块2》+升级补丁 官方中文版整合XCI下载</a></h4>
+						<span class="related-post-date">2020-12-10</span>
+					</section>
+
+				
+					<section>
+						<a href="../index.html@p=1270"><img width="208" height="330" src="../wp-content/uploads/2020/12/QQ�%259B��%2589%258720201205183307-208x330.jpg" class="attachment-ashe-grid-thumbnail size-ashe-grid-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://www.vgter.com/wp-content/uploads/2020/12/QQ图片20201205183307-208x330.jpg 208w, https://www.vgter.com/wp-content/uploads/2020/12/QQ图片20201205183307-189x300.jpg 189w, https://www.vgter.com/wp-content/uploads/2020/12/QQ图片20201205183307.jpg 350w" sizes="(max-width: 208px) 100vw, 208px" /></a>
+						<h4><a href="../index.html@p=1270">SWITCH《逝者摆渡人/Spiritfarer》+升级补丁 中文版NSP下载</a></h4>
+						<span class="related-post-date">2020-12-05</span>
+					</section>
+
+				
+					<section>
+						<a href="../index.html@p=2193"><img width="205" height="330" src="../wp-content/uploads/2021/02/091753zoebwkue3idzuehp-205x330.jpg" class="attachment-ashe-grid-thumbnail size-ashe-grid-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://www.vgter.com/wp-content/uploads/2021/02/091753zoebwkue3idzuehp-205x330.jpg 205w, https://www.vgter.com/wp-content/uploads/2021/02/091753zoebwkue3idzuehp-186x300.jpg 186w, https://www.vgter.com/wp-content/uploads/2021/02/091753zoebwkue3idzuehp.jpg 300w" sizes="(max-width: 205px) 100vw, 205px" /></a>
+						<h4><a href="../index.html@p=2193">SWITCH《JUMP大乱斗 豪华版/JUMP FORCE》+升级补丁+11DLC 中文版整合XCI下载</a></h4>
+						<span class="related-post-date">2021-02-03</span>
+					</section>
+
+				
+				<div class="clear-fix"></div>
+			</div>
+
+			
+	</div><!-- .main-container -->
+
+
+	
+<div class="sidebar-right-wrap">
+	<aside class="sidebar-right">
+		<div id="search-3" class="ashe-widget widget_search"><form role="search" method="get" id="searchform" class="clear-fix" action="../index.html"><input type="search" name="s" id="s" placeholder="搜索..." data-placeholder="输入后按回车..." value="" /><i class="fa fa-search"></i><input type="submit" id="searchsubmit" value="st" /></form></div><div id="text-2" class="ashe-widget widget_text"><div class="widget-title"><h2>常见问题</h2></div>			<div class="textwidget"><p><a href="../index.html@p=426"><span style="color: #c8c8c8;">该选择XCI还是NSP？</span></a></p>
+<p><a href="../index.html@p=426"><span style="color: #c8c8c8;">大气层怎样安装XCI？</span></a></p>
+</div>
+		</div><div id="meta-3" class="ashe-widget widget_meta"><div class="widget-title"><h2>功能</h2></div>
+		<ul>
+			<li><a href="../wp-login.php@action=register">注册</a></li>			<li><a href="../wp-login.php">登录</a></li>
+			<li><a href="../feed">条目feed</a></li>
+			<li><a href="../comments/feed">评论feed</a></li>
+
+			<li><a href="https://cn.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div><div id="text-3" class="ashe-widget widget_text"><div class="widget-title"><h2>友情链接</h2></div>			<div class="textwidget"><p><span style="color: #999999;"><a style="color: #999999;" href="http://www.xxgame.net/Chinese" target="_blank" rel="noopener noreferrer">XXGAME汉化组</a></span></p>
+<p><span style="color: #999999;"><a style="color: #999999;" href="https://www.nfstreet.com/" target="_blank" rel="noopener noreferrer">电玩杂志</a></span></p>
+<p><span style="color: #999999;"><a style="color: #999999;" href="https://games.00bz.com/" target="_blank" rel="noopener noreferrer">游戏封面</a></span></p>
+</div>
+		</div>	</aside>
+</div>
+</div><!-- .page-content -->
+
+		</div><!-- .page-content -->
+
+		<!-- Page Footer -->
+		<footer id="page-footer" class="clear-fix">
+			
+			<!-- Scroll Top Button -->
+						<span class="scrolltop">
+				<i class="fa fa fa-angle-up"></i>
+			</span>
+			
+			<div class="page-footer-inner boxed-wrapper">
+
+			<!-- Footer Widgets -->
+			
+			<div class="footer-copyright">
+				<div class="copyright-info">
+				本站邮箱：vgter#qq.com（#换成@）
+2022 上游世界 &copy;.				</div>
+
+								
+				<div class="credit">
+									</div>
+
+			</div>
+
+			</div><!-- .boxed-wrapper -->
+
+		</footer><!-- #page-footer -->
+
+	</div><!-- #page-wrap -->
+
+<div id="ays_tooltip" >You cannot copy content of this page</div>
+                    <style>
+                        #ays_tooltip,.ays_tooltip_class {
+                    		display: none;
+                    		position: absolute;
+    						z-index: 999999999;
+                            background-color: #ffffff;
+                            
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            opacity:1;
+                            border: 1px solid #b7b7b7;
+                            border-radius: 3px;
+                            box-shadow: rgba(0,0,0,0) 0px 0px 15px 1px;
+                            color: #ff0000;
+                            padding: 5px;
+                            font-size: 12px;
+                        }
+                        
+                        #ays_tooltip > *, .ays_tooltip_class > * {
+                            color: #ff0000;
+                            font-size: 12px;
+                        }
+                       
+                    </style>
+                <style>
+            </style>
+    <script>
+        // window.addEventListener("DOMContentLoaded",function(){
+            function stopPrntScr() {
+                var inpFld = document.createElement("input");
+                inpFld.setAttribute("value", "Access Denied");
+                inpFld.setAttribute("width", "0");
+                inpFld.style.height = "0px";
+                inpFld.style.width = "0px";
+                inpFld.style.border = "0px";
+                document.body.appendChild(inpFld);
+                inpFld.select();
+                document.execCommand("copy");
+                inpFld.remove(inpFld);
+            }
+
+            (function ($) {
+                'use strict';
+                $(function () {
+                    let all = $('*').not('script, meta, link, style, noscript, title'),
+                        tooltip = $('#ays_tooltip'),
+                        tooltipClass = "mouse";
+                    if (tooltipClass == "mouse" || tooltipClass == "mouse_first_pos") {
+    	                                        all.on('mousemove', function (e) {
+                            let cordinate_x = e.pageX;
+                            let cordinate_y = e.pageY;
+                            let windowWidth = $(window).width();
+                            if (cordinate_y < tooltip.outerHeight()) {
+                                tooltip.css({'top': (cordinate_y + 10) + 'px'});
+                            } else {
+                                tooltip.css({'top': (cordinate_y - tooltip.outerHeight()) + 'px'});
+                            }
+                            if (cordinate_x > (windowWidth - tooltip.outerWidth())) {
+                                tooltip.css({'left': (cordinate_x - tooltip.outerWidth()) + 'px'});
+                            } else {
+                                tooltip.css({'left': (cordinate_x + 5) + 'px'});
+                            }
+
+                        });
+    	                                    } else {
+                        tooltip.addClass(tooltipClass);
+                    }
+    				                    $(window).on('keyup', function (e) {
+                        let keyCode = e.keyCode ? e.keyCode : e.which;
+                        if (keyCode == 44) {
+                            stopPrntScr();
+                            show_tooltip( );
+                            audio_play();
+                        }
+                    });
+    				
+
+    				
+
+                                        $(document).on('contextmenu', function (e) {
+                        let target = $(event.target);
+                        if (target.is("img") || target.is("div.ays_tooltip_class")) {
+                            let t = e || window.event;
+                            let n = t.target || t.srcElement;
+                            if (n.nodeName !== "A") {
+                                show_tooltip( );
+                                audio_play();
+                            }
+                            return false;
+                        }
+                    });
+                    
+    	            
+    				                    $(document).on('dragstart', function () {
+                        let target = $(event.target);
+                        if (!target.is("")) {
+                            show_tooltip( );
+                            audio_play();
+                            return false;
+                        }
+                    });
+    				
+    				
+                    $(window).on('keydown', function (event) {
+                        var sccp_selObj = window.getSelection();
+                        var check_selectors = true;
+                        if (!sccp_selObj.rangeCount < 1) {
+                            var sccp_selRange = sccp_selObj.getRangeAt(0);
+                            var sccp_selection_selector = sccp_selRange.startContainer.parentElement;
+                            check_selectors = !$(sccp_selection_selector).is("");
+                        }
+
+                        if (check_selectors) {
+                            var isOpera = (BrowserDetect.browser === "Opera");
+
+                            var isFirefox = (BrowserDetect.browser === 'Firefox');
+
+                            var isSafari = (BrowserDetect.browser === 'Safari');
+
+                            var isIE = (BrowserDetect.browser === 'Explorer');
+                            var isChrome = (BrowserDetect.browser === 'Chrome');
+                            var isMozilla = (BrowserDetect.browser === 'Mozilla');
+
+                            if (BrowserDetect.OS === 'Windows') {
+        						                                if (isChrome) {
+                                    if (((event.ctrlKey && event.shiftKey) && (
+                                        event.keyCode === 73 ||
+                                        event.keyCode === 74 ||
+                                        event.keyCode === 68 ||
+                                        event.keyCode === 67))) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+                                if (isFirefox) {
+                                    if (((event.ctrlKey && event.shiftKey) && (
+                                        event.keyCode === 73 ||
+                                        event.keyCode === 74 ||
+                                        event.keyCode === 67 ||
+                                        event.keyCode === 75 ||
+                                        event.keyCode === 69)) ||
+                                        event.keyCode === 118 ||                                    
+                                        (event.keyCode === 112 && event.shiftKey) ||
+                                        (event.keyCode === 115 && event.shiftKey) ||
+                                        (event.keyCode === 118 && event.shiftKey) ||
+                                        (event.keyCode === 120 && event.shiftKey)) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+                                if (isOpera) {
+                                    if (((event.ctrlKey && event.shiftKey) && (
+                                        event.keyCode === 73 ||
+                                        event.keyCode === 74 ||
+                                        event.keyCode === 67 ||
+                                        event.keyCode === 88 ||
+                                        event.keyCode === 69))) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+                                if (isIE) {
+                                    if ((event.keyCode === 123 && event.shiftKey)) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }                         
+                                if (isMozilla) {
+                                    if ((event.ctrlKey && event.keyCode === 73) || 
+                                        (event.altKey && event.keyCode === 68)) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+        						
+        						                                if ((event.keyCode === 83 && event.ctrlKey)) {
+                                    show_tooltip();
+                                    audio_play();
+                                    return false;
+                                }
+        						
+        						                                if ((event.keyCode === 65 && event.ctrlKey)) {
+
+                                                                            show_tooltip();
+                                        audio_play();
+                                        return false;
+                                                                    }
+        						
+        						
+        						
+        						                                if ((event.keyCode === 88 && event.ctrlKey)) {
+                                                                            show_tooltip( );
+                                        audio_play();
+                                        return false;
+                                                                    }
+        						
+        						                                if ((event.keyCode === 85 && event.ctrlKey)) {
+                                    show_tooltip( );
+                                    audio_play();
+                                    return false;
+                                }
+        						
+        						
+        						
+                                
+                                
+                                
+                                
+                                
+                                
+        						                                if (event.keyCode === 123 || (event.keyCode === 123 && event.shiftKey)) {
+                                    show_tooltip();
+                                    audio_play();
+                                    return false;
+                                }
+        						                            } else if (BrowserDetect.OS === 'Linux') {
+        						                                if (isChrome) {
+                                    if (
+                                        (
+                                            (event.ctrlKey && event.shiftKey) &&
+                                            (event.keyCode === 73 ||
+                                                event.keyCode === 74 ||
+                                                event.keyCode === 67
+                                            )
+                                        ) ||
+                                        (event.ctrlKey && event.keyCode === 85)
+                                    ) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+                                if (isFirefox) {
+                                    if (((event.ctrlKey && event.shiftKey) && (event.keyCode === 73 || event.keyCode === 74 || event.keyCode === 67 || event.keyCode === 75 || event.keyCode === 69)) || event.keyCode === 118 || event.keyCode === 116 || (event.keyCode === 112 && event.shiftKey) || (event.keyCode === 115 && event.shiftKey) || (event.keyCode === 118 && event.shiftKey) || (event.keyCode === 120 && event.shiftKey) || (event.keyCode === 85 && event.ctrlKey)) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+                                if (isOpera) {
+                                    if (((event.ctrlKey && event.shiftKey) && (event.keyCode === 73 || event.keyCode === 74 || event.keyCode === 67 || event.keyCode === 88 || event.keyCode === 69)) || (event.ctrlKey && event.keyCode === 85)) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+        						
+        						                                if ((event.keyCode === 83 && event.ctrlKey)) {
+                                    show_tooltip();
+                                    audio_play();
+                                    return false;
+                                }
+        						
+        						                                if (event.keyCode === 65 && event.ctrlKey) {
+                                                                            show_tooltip();
+                                        audio_play();
+                                        return false;
+                                                                    }
+        						
+        						
+        						
+        						                                if ((event.keyCode === 88 && event.ctrlKey)) {
+                                                                            show_tooltip();
+                                        audio_play();
+                                        return false;
+                                                                    }
+        						
+        						                                if ((event.keyCode === 85 && event.ctrlKey)) {
+                                    show_tooltip( );
+                                    audio_play();
+                                    return false;
+                                }
+        						
+        						
+        						
+                                
+                                
+                                
+                                
+                                
+                                
+        						                                if (event.keyCode === 123 || (event.keyCode === 123 && event.shiftKey)) {
+                                    show_tooltip();
+                                    audio_play();
+                                    return false;
+                                }
+        						                            } else if (BrowserDetect.OS === 'Mac') {
+        						                                if (isChrome || isSafari || isOpera || isFirefox) {
+                                    if (event.metaKey && (
+                                        event.keyCode === 73 ||
+                                        event.keyCode === 74 ||
+                                        event.keyCode === 69 ||
+                                        event.keyCode === 75)) {
+                                        show_tooltip();
+                                        audio_play();
+                                        return false;
+                                    }
+                                }
+        						
+        						                                if ((event.keyCode === 83 && event.metaKey)) {
+                                    show_tooltip();
+                                    audio_play();
+                                    return false;
+                                }
+        						
+        						                                if ((event.keyCode === 65 && event.metaKey)) {
+                                                                            show_tooltip();
+                                        audio_play();
+                                        return false;
+                                                                    }
+        						
+        						
+        						
+        						                                if ((event.keyCode === 88 && event.metaKey)) {
+                                                                            show_tooltip();
+                                        audio_play();
+                                        return false;
+                                                                    }
+        						
+        						                                if ((event.keyCode === 85 && event.metaKey)) {
+                                    show_tooltip( );
+                                    audio_play();
+                                    return false;
+                                }
+        						
+        						
+        						
+                                
+                                
+                                
+                                
+                                
+                                
+        						                                if (event.keyCode === 123) {
+                                    show_tooltip();
+                                    audio_play();
+                                    return false;
+                                }
+        						                            }
+                        }
+                    });
+
+                    function disableSelection(e) {
+                        if (typeof e.onselectstart !== "undefined")
+                            e.onselectstart = function () {
+                                show_tooltip( );
+                                audio_play();
+                                return false
+                            };
+                        else if (typeof e.style.MozUserSelect !== "undefined")
+                            e.style.MozUserSelect = "none";
+                        else e.onmousedown = function () {
+                                show_tooltip();
+                                audio_play();
+                                return false
+                            };
+                        e.style.cursor = "default"
+                    }
+
+                    var msg_count = 1; 
+                    function show_tooltip(mess) {
+                        if (mess && msg_count == 1) {
+                            if (tooltipClass == 'mouse_first_pos') {
+                                if ($('#ays_tooltip2').length > 0) {
+                                    $('#ays_tooltip2').remove();
+                                }
+                                var tooltip2 = tooltip.clone().prop('id','ays_tooltip2').insertBefore(tooltip);
+                                $('#ays_tooltip2').addClass('ays_tooltip_class');
+                                tooltip2.css({'display': 'table'});
+                                $('#ays_tooltip').fadeOut();
+                                setTimeout(function () {
+                                    tooltip2.remove();
+                                }, 1000);
+                            }else{
+                                tooltip.css({'display': 'table'});
+                                setTimeout(function () {
+                                    $('#ays_tooltip').fadeOut(500);
+                                }, 1000);
+                            }
+                        }
+
+                                            }
+
+                    function audio_play(audio) {
+                        if (audio) {
+                            var audio = document.getElementById("sccp_public_audio");
+                            if (audio) {
+                                audio.currentTime = 0;
+                                audio.play();
+                            }
+
+                        }
+                    }
+
+
+                });
+            })(jQuery);
+
+            var BrowserDetect = {
+                init: function () {
+                    this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+                    this.version = this.searchVersion(navigator.userAgent) || this.searchVersion(navigator.appVersion) || "an unknown version";
+                    this.OS = this.searchString(this.dataOS) || "an unknown OS";
+                },
+                searchString: function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                        var dataString = data[i].string;
+                        var dataProp = data[i].prop;
+                        this.versionSearchString = data[i].versionSearch || data[i].identity;
+                        if (dataString) {
+                            if (dataString.indexOf(data[i].subString) !== -1) return data[i].identity;
+                        } else if (dataProp) return data[i].identity;
+                    }
+                },
+                searchVersion: function (dataString) {
+                    var index = dataString.indexOf(this.versionSearchString);
+                    if (index === -1) return;
+                    return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
+                },
+                dataBrowser: [{
+                    string: navigator.userAgent,
+                    subString: "Chrome",
+                    identity: "Chrome"
+                }, {
+                    string: navigator.userAgent,
+                    subString: "OmniWeb",
+                    versionSearch: "OmniWeb/",
+                    identity: "OmniWeb"
+                }, {
+                    string: navigator.vendor,
+                    subString: "Apple",
+                    identity: "Safari",
+                    versionSearch: "Version"
+                }, {
+                    prop: window.opera,
+                    identity: "Opera",
+                    versionSearch: "Version"
+                }, {
+                    string: navigator.vendor,
+                    subString: "iCab",
+                    identity: "iCab"
+                }, {
+                    string: navigator.vendor,
+                    subString: "KDE",
+                    identity: "Konqueror"
+                }, {
+                    string: navigator.userAgent,
+                    subString: "Firefox",
+                    identity: "Firefox"
+                }, {
+                    string: navigator.vendor,
+                    subString: "Camino",
+                    identity: "Camino"
+                }, { // for newer Netscapes (6+)
+                    string: navigator.userAgent,
+                    subString: "Netscape",
+                    identity: "Netscape"
+                }, {
+                    string: navigator.userAgent,
+                    subString: "MSIE",
+                    identity: "Explorer",
+                    versionSearch: "MSIE"
+                }, {
+                    string: navigator.userAgent,
+                    subString: "Gecko",
+                    identity: "Mozilla",
+                    versionSearch: "rv"
+                }, { // for older Netscapes (4-)
+                    string: navigator.userAgent,
+                    subString: "Mozilla",
+                    identity: "Netscape",
+                    versionSearch: "Mozilla"
+                }],
+                dataOS: [{
+                    string: navigator.platform,
+                    subString: "Win",
+                    identity: "Windows"
+                }, {
+                    string: navigator.platform,
+                    subString: "Mac",
+                    identity: "Mac"
+                }, {
+                    string: navigator.userAgent,
+                    subString: "iPhone",
+                    identity: "iPhone/iPod"
+                }, {
+                    string: navigator.platform,
+                    subString: "Linux",
+                    identity: "Linux"
+                }]
+            };
+            BrowserDetect.init();
+        // }, false);
+    </script>
+<script type='text/javascript' src='../wp-content/themes/ashe/assets/js/custom-plugins.js@ver=1.8.2' id='ashe-plugins-js'></script>
+<script type='text/javascript' src='../wp-content/themes/ashe/assets/js/custom-scripts.js@ver=1.9.7' id='ashe-custom-scripts-js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.5.11' id='wp-embed-js'></script>
+
+<!-- 百度统计代码 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1d2a04ce33bb2781f5b92390b4e3d8b9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 1.053 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-12-11 19:57:02 -->
+
+<!-- super cache -->
